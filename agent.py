@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI(
     base_url='https://ms-ens-f7b6721b-eaf8.api-inference.modelscope.cn/v1',
-    api_key='ms-5c3fba79-bf25-43e1-9445-ac520e1aa3c1',
+    api_key='ms-xxxxxxxx',#这里需要填写我的魔搭api，如果需要请联系我
 )
 
 messages = [
